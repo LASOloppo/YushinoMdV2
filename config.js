@@ -135,7 +135,7 @@ global.psaweria = 'https://saweria.co/hyuura'
 
 
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
-global.ListHargaSewa = '├ HEMAT(1 MINGGU) IDR 3.000\n├ NORMAL(1 BULAN) IDR 5.000\n├ VIP(9HARI) IDR 10.000\n├ PERMANEN IDR 15.000'
+global.ListHargaSewa = '├ HEMAT(1 MINGGU) IDR 3.000\n├ NORMAL(1 BULAN) IDR 5.000\n├ VIP(9HARI) IDR 7.000\n├ PERMANEN IDR 10.000'
 //⫹⫺ ╳╶╼╶╶╶╶┈ ⎝ TAMPILAN ⎞ ┈╴╴╴╴╾╴╳ ⫹⫺
 global.LyAtas1 = '☰ ━━━ ❨'
 global.LyAtas2 = '❩ ━━┄┈ •⟅'
