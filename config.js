@@ -129,7 +129,7 @@ global.pdana = '082319517960'
 global.povo = '-'
 global.pgopay = '082319517960'
 global.plinkaja = '-' //link aja
-global.ppulsa = '082319517960
+global.ppulsa = '082319517960'
 global.ppulsa2 = '082319517960'
 global.psaweria = 'https://saweria.co/hyuura'
 
